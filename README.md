@@ -3,5 +3,5 @@ ES:En este projecto usaremos "tamaño de puntos" para indicar el area y poblaci�
 
 EN: In this project we use "matplotlib.pyplot" to print de density of pupulation of california using diferent size "points or circles".
 
+![image](https://github.com/Dande8719/Training-Error-Data-Science-Project-on-Area-and-Population/assets/103025222/ee1ce36c-bb82-4a98-bf3b-14872513fbd9)
 
-!!!!!!ERROR: NO diferencia el tamaño de los distintos puntos de densidad de población.!!!!!
